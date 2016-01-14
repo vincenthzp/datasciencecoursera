@@ -1,2 +1,0 @@
-# datasciencecoursera
-project_need_of_datasciencetool
